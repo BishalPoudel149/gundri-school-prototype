@@ -23,7 +23,7 @@ const EducationPage = () => {
         'Creative arts and music',
         'Physical development activities'
       ],
-      image: 'https://images.pexels.com/photos/8363437/pexels-photo-8363437.jpeg?auto=compress&cs=tinysrgb&w=1600'
+      image: 'https://images.pexels.com/photos/8422164/pexels-photo-8422164.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2'
     },
     {
       title: 'Kindergarten (Ages 4-6)',
@@ -35,8 +35,9 @@ const EducationPage = () => {
         'Arts and crafts',
         'Physical education'
       ],
-      image: 'https://images.pexels.com/photos/8363774/pexels-photo-8363774.jpeg?auto=compress&cs=tinysrgb&w=1600'
+      image: 'https://images.pexels.com/photos/8466778/pexels-photo-8466778.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2'
     },
+    
     {
       title: 'Primary School (Grades 1-5)',
       description: 'A comprehensive curriculum that builds strong academic foundations while nurturing creativity, critical thinking, and personal development.',
@@ -47,7 +48,7 @@ const EducationPage = () => {
         'Sports and physical education',
         'Arts and music programs'
       ],
-      image: 'https://images.pexels.com/photos/8532802/pexels-photo-8532802.jpeg?auto=compress&cs=tinysrgb&w=1600'
+      image: 'https://images.pexels.com/photos/5428267/pexels-photo-5428267.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2'
     },
     {
       title: 'Middle School (Grades 6-9)',
@@ -59,7 +60,7 @@ const EducationPage = () => {
         'Leadership development',
         'Career exploration'
       ],
-      image: 'https://images.pexels.com/photos/764681/pexels-photo-764681.jpeg?auto=compress&cs=tinysrgb&w=1600'
+      image: 'https://images.pexels.com/photos/6334064/pexels-photo-6334064.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2'
     }
   ];
 
